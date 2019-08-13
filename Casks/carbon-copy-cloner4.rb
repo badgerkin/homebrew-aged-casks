@@ -5,5 +5,5 @@ cask 'carbon-copy-cloner4' do
   name "Carbon Copy Cloner #{version.major}"
   homepage 'https://bombich.com/'
 
-  app 'Carbon Copy Cloner 4.app'
+  app 'Carbon Copy Cloner.app'
 end
